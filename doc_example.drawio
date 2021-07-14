@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-14T14:04:54.157Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="-zTIFbAfj-42Ga7gdON6" version="14.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-14T14:07:51.832Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="xPwIp-haEJCowIb37ynw" version="14.8.6" type="github">
   <diagram id="4_BCtRtNaMnRbEcq8JJH" name="Page-1">
     <mxGraphModel dx="898" dy="490" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="9JfLr56fLFELNTdt5D4B-2" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeWidth=1;perimeterSpacing=1;" parent="1" vertex="1">
           <mxGeometry x="33" y="86" width="501" height="113" as="geometry" />
         </mxCell>
-        <mxCell id="9JfLr56fLFELNTdt5D4B-1" value="&lt;p&gt;&lt;font face=&quot;Verdana&quot; style=&quot;line-height: 200%&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;font&gt;c1: Mike said,&lt;br&gt;&lt;/font&gt;&lt;font&gt;c2: I am so happy, (&lt;font color=&quot;#a9c4eb&quot;&gt;Emotion&lt;/font&gt;)&lt;br&gt;&lt;/font&gt;&lt;font&gt;c3: because I have my own family now, (&lt;font color=&quot;#b9e0a5&quot;&gt;Cause&lt;/font&gt;)&lt;br&gt;&lt;/font&gt;&lt;font&gt;c4: I thank all the people who have helped me. (&lt;font color=&quot;#a9c4eb&quot;&gt;Emotion&lt;/font&gt;,&lt;font color=&quot;#ea6b66&quot;&gt; &lt;/font&gt;&lt;font color=&quot;#b9e0a5&quot;&gt;Cause&lt;/font&gt;)&lt;/font&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=9;perimeterSpacing=1;" parent="1" vertex="1">
+        <mxCell id="9JfLr56fLFELNTdt5D4B-1" value="&lt;p&gt;&lt;font face=&quot;Verdana&quot; style=&quot;line-height: 200%&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;font&gt;c1: Mike said,&lt;br&gt;&lt;/font&gt;&lt;font&gt;c2: I am so happy, (&lt;font color=&quot;#97d077&quot;&gt;Emotion&lt;/font&gt;)&lt;br&gt;&lt;/font&gt;&lt;font&gt;c3: because I have my own family now, (&lt;font color=&quot;#ff3333&quot;&gt;Cause&lt;/font&gt;)&lt;br&gt;&lt;/font&gt;&lt;font&gt;c4: I thank all the people who have helped me. (&lt;font color=&quot;#97d077&quot;&gt;Emotion&lt;/font&gt;,&lt;font color=&quot;#ea6b66&quot;&gt; &lt;/font&gt;&lt;font color=&quot;#ff3333&quot;&gt;Cause&lt;/font&gt;)&lt;/font&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=9;perimeterSpacing=1;" parent="1" vertex="1">
           <mxGeometry x="48" y="89" width="488" height="105" as="geometry" />
         </mxCell>
         <mxCell id="9JfLr56fLFELNTdt5D4B-5" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Input: a emotion document&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" parent="1" vertex="1">
@@ -16,7 +16,7 @@
         <mxCell id="9JfLr56fLFELNTdt5D4B-7" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Output: emotion-cause pairs&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="567" y="58" width="238" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="9JfLr56fLFELNTdt5D4B-13" value="&lt;font style=&quot;font-size: 14px&quot;&gt;{ (&lt;font color=&quot;#a9c4eb&quot;&gt;c2&lt;/font&gt;, &lt;font color=&quot;#b9e0a5&quot;&gt;c3&lt;/font&gt;), (&lt;font color=&quot;#a9c4eb&quot;&gt;c4&lt;/font&gt;, &lt;font color=&quot;#b9e0a5&quot;&gt;c4&lt;/font&gt;) }&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=1;" parent="1" vertex="1">
+        <mxCell id="9JfLr56fLFELNTdt5D4B-13" value="&lt;font style=&quot;font-size: 14px&quot;&gt;{ (&lt;font color=&quot;#97d077&quot;&gt;c2&lt;/font&gt;, &lt;font color=&quot;#ff3333&quot;&gt;c3&lt;/font&gt;), (&lt;font color=&quot;#97d077&quot;&gt;c4&lt;/font&gt;, &lt;font color=&quot;#ff3333&quot;&gt;c4&lt;/font&gt;) }&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="603" y="115" width="166" height="53" as="geometry" />
         </mxCell>
         <mxCell id="9JfLr56fLFELNTdt5D4B-15" value="" style="endArrow=classic;html=1;shape=flexArrow;" parent="1" edge="1">
