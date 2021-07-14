@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-07-14T14:13:41.848Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="Lr52qutgBFzyyAPcvgZC" version="14.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-14T14:16:25.274Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="AOpB7zMXSEGJ-zwBSQXK" version="14.8.6" type="github">
   <diagram id="MBqKtfXBQmt_tBr0Ig7z" name="Page-1">
-    <mxGraphModel dx="898" dy="490" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="413" pageHeight="291" background="none" math="0" shadow="0">
+    <mxGraphModel dx="898" dy="439" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="440" pageHeight="250" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="mURmj63mKeEpH5D8UC5u-1" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;strokeColor=#CCCCCC;" parent="1" vertex="1">
-          <mxGeometry x="7" y="62" width="220" height="193" as="geometry" />
+          <mxGeometry x="22" y="44" width="220" height="193" as="geometry" />
         </mxCell>
         <mxCell id="mURmj63mKeEpH5D8UC5u-2" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="mURmj63mKeEpH5D8UC5u-1" vertex="1">
           <mxGeometry width="220" height="47" as="geometry" />
@@ -69,15 +69,15 @@
         </mxCell>
         <mxCell id="mURmj63mKeEpH5D8UC5u-22" value="" style="endArrow=classic;html=1;shape=flexArrow;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="234" y="158.25" as="sourcePoint" />
-            <mxPoint x="272" y="158" as="targetPoint" />
+            <mxPoint x="249" y="140.25" as="sourcePoint" />
+            <mxPoint x="287" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mURmj63mKeEpH5D8UC5u-23" value="&lt;font style=&quot;font-size: 14px&quot;&gt;{ (c2, c3), (c4, c4) }&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;strokeColor=#CCCCCC;" parent="1" vertex="1">
-          <mxGeometry x="281" y="135.25" width="122" height="46.5" as="geometry" />
+          <mxGeometry x="296" y="117.25" width="122" height="46.5" as="geometry" />
         </mxCell>
         <mxCell id="mURmj63mKeEpH5D8UC5u-24" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Candidate emotion-cause pairs&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" parent="1" vertex="1">
-          <mxGeometry x="14" y="31" width="213" height="20" as="geometry" />
+          <mxGeometry x="29" y="13" width="213" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
