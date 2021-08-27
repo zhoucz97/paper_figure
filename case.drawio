@@ -1,1 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2021-08-27T06:47:21.491Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" version="15.0.2" etag="mrAb5KyxD5S0l_IOntWy" type="github"><diagram id="HPst22vvmvAOV6Ry2rXI">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-08-27T07:40:43.193Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="SOmoTWfBt3bRNtyXdYiH" version="15.0.2" type="github">
+  <diagram id="HPst22vvmvAOV6Ry2rXI" name="Page-1">
+    <mxGraphModel dx="619" dy="338" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="600" pageHeight="700" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Onb9mag9hN51fVFquNFM-1" value="&lt;font style=&quot;font-size: 11px&quot;&gt;接连发生的人和货车的事故，让他欠下外债18万，陈怀军一夜 白头。过年了，债主把家里粮食都搬走了。快过年了，别家都 在欢欢喜喜过年，而俺家过年连割肉的钱都没有。我和母亲抱头痛哭。陈怀军的五女儿陈变玲说。2001年底有个叫王明化名的 债主找上门来要账，把家里剩余粮食都搬走了。&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="20" width="340" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Onb9mag9hN51fVFquNFM-2" value="&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;在当地具有地标意义的大德州餐厅每天为食客提供72盎司挑战，只要一位食客能在1小时内吃到规定食物就能免单，否则就必须支付72美金。目前居住在加州的斯凯勒因此而赢得了5000美金，而其此此成绩也已递交给吉尼斯世界纪录。不过，斯凯勒更高兴的则是自己分文未花就吃了这么一顿豪餐。“我非常开心这份餐是免费的，不然这样一顿要花掉我300美金呢”，斯凯勒说。&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="70" y="190" width="570" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Onb9mag9hN51fVFquNFM-3" value="&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;The Grand Texas restaurant provides diners with a 72-ounce challenge every day. Your order can be exempted as long as you can eat the prescribed food within 1 hour, otherwise you must pay 72 dollars. Skyler won $5,000 for this, and this result has also been submitted to the Guinness Book of World Records. However, Skyler was happier that he had eaten such a luxurious meal without spending any money. &quot;I am very happy that this meal is free, otherwise such a meal would cost me 300 dollars.&quot; Skyler said.&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="70" y="290" width="570" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Onb9mag9hN51fVFquNFM-4" value="&lt;div&gt;据介绍,&lt;span&gt;这家以动物无害化处理为项目注册登记的海昌公司,&lt;/span&gt;&lt;span&gt;为宠物提供特殊的处理方式,&lt;/span&gt;&lt;span&gt;既解决了宠物死后乱 扔乱埋的弊端,&lt;/span&gt;&lt;span&gt;同时也可以提供给主人对宠物的哀思。&lt;/span&gt;&lt;span&gt;昨天上午,&lt;/span&gt;&lt;span&gt;市民王先生怀着伤感的心情来到这家公司,&lt;/span&gt;&lt;span&gt;为的是送别他家刚刚病死的罗威纳犬。&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="70" y="410" width="570" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
