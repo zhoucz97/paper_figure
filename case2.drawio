@@ -1,1 +1,112 @@
-<mxfile host="app.diagrams.net" modified="2021-08-29T09:03:01.297Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" version="15.0.3" etag="EdWTszVKub27bqRPNh1_" type="github"><diagram id="KLlUpB3WJxM86L-r0Po5">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-08-29T14:04:40.786Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="hPcPAAh0bL1vFU4udBeR" version="15.0.3" type="github">
+  <diagram id="KLlUpB3WJxM86L-r0Po5" name="Page-1">
+    <mxGraphModel dx="808" dy="408" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="700" pageHeight="210" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="K8sW1tv_j0-LLQNYmq9_-1" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeWidth=1;gradientColor=#FFFFFF;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="0.25" y="8" width="652" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="K8sW1tv_j0-LLQNYmq9_-3" value="&lt;p style=&quot;line-height: 140%&quot;&gt;&lt;/p&gt;&lt;b&gt;Translate&lt;/b&gt;: Seeing Rong&#39;s depression, Chen felt extremely sad. In order to give Rong the confidence and courage to continue to live, Chen took excellent care of Rong every day. When Rong had an infusion, Chen sat on a stool next to the hospital bed to talk to her, and read the news on his mobile phone to her. Seeing Rong&#39;s illness worsening day by day, Xiao Chen felt very anxious and sad." style="text;html=1;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=0;" vertex="1" parent="1">
+          <mxGeometry x="6.75" y="63" width="639" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="K8sW1tv_j0-LLQNYmq9_-5" value="Ground-truth" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="568.5" y="135" width="82" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="K8sW1tv_j0-LLQNYmq9_-6" value="&lt;font style=&quot;font-size: 12px&quot;&gt;The first turn&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="4.37" y="135" width="72.25" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="K8sW1tv_j0-LLQNYmq9_-7" value="The second turn" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="135" width="99" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="K8sW1tv_j0-LLQNYmq9_-8" value="Rethink" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="135" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="K8sW1tv_j0-LLQNYmq9_-9" value="Valid E-C pairs" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="135" width="92" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="K8sW1tv_j0-LLQNYmq9_-10" value="(c5,&amp;nbsp; c6)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="568.5" y="163" width="74" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="K8sW1tv_j0-LLQNYmq9_-11" value="c5" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="5.5" y="163" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="K8sW1tv_j0-LLQNYmq9_-12" value="(c5, c3), P&lt;sub&gt;(5,3) &lt;/sub&gt;= 0.7057&lt;br&gt;(c5, c6), P&lt;sub&gt;(5,6) &lt;/sub&gt;= 0.7340" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="87" y="155" width="145" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="K8sW1tv_j0-LLQNYmq9_-13" value="(c5, c3), P&lt;sub&gt;(5,3) &lt;/sub&gt;= 0.7057&lt;br&gt;(c5, c6), P&lt;sub&gt;(5,6) &lt;/sub&gt;= 0.8808" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="155" width="145" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="K8sW1tv_j0-LLQNYmq9_-14" value="(c5,&amp;nbsp; c6)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="163" width="89.25" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="K8sW1tv_j0-LLQNYmq9_-15" value="" style="endArrow=none;html=1;strokeWidth=1;entryX=0.137;entryY=0.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="239" y="192" as="sourcePoint" />
+            <mxPoint x="239.32400000000007" y="135" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K8sW1tv_j0-LLQNYmq9_-16" value="" style="endArrow=none;html=1;strokeWidth=1;entryX=0.137;entryY=0.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="191" as="sourcePoint" />
+            <mxPoint x="390.32400000000007" y="134.99800000000005" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K8sW1tv_j0-LLQNYmq9_-17" value="" style="endArrow=none;html=1;strokeWidth=1;entryX=0.137;entryY=0.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="564" y="191" as="sourcePoint" />
+            <mxPoint x="564.3240000000001" y="134.99800000000005" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K8sW1tv_j0-LLQNYmq9_-18" value="" style="endArrow=none;html=1;strokeWidth=1;startArrow=none;" edge="1" parent="1" source="K8sW1tv_j0-LLQNYmq9_-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="0.25" y="154.17000000000002" as="sourcePoint" />
+            <mxPoint x="652.25" y="154.17000000000007" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K8sW1tv_j0-LLQNYmq9_-19" value="Threshold" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="403" y="135" width="54" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="K8sW1tv_j0-LLQNYmq9_-20" value="" style="endArrow=none;html=1;strokeWidth=1;entryX=0.137;entryY=0.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="469" y="190" as="sourcePoint" />
+            <mxPoint x="469.32400000000007" y="133.99800000000005" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K8sW1tv_j0-LLQNYmq9_-21" value="0.8" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="163" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="K8sW1tv_j0-LLQNYmq9_-22" value="" style="endArrow=none;html=1;strokeWidth=1;entryX=0.137;entryY=0.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80.25" y="192" as="sourcePoint" />
+            <mxPoint x="80.57400000000007" y="135" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K8sW1tv_j0-LLQNYmq9_-23" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeColor=#000000;strokeWidth=1;fillColor=none;gradientColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="0.25" y="135" width="652" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="K8sW1tv_j0-LLQNYmq9_-24" value="" style="endArrow=none;html=1;strokeWidth=1;" edge="1" parent="1" target="K8sW1tv_j0-LLQNYmq9_-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="0.25" y="154.16999999999996" as="sourcePoint" />
+            <mxPoint x="652.25" y="154.16999999999996" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K8sW1tv_j0-LLQNYmq9_-25" value="" style="endArrow=none;html=1;strokeWidth=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="155" as="sourcePoint" />
+            <mxPoint x="651" y="155" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K8sW1tv_j0-LLQNYmq9_-26" value="&lt;font style=&quot;line-height: 160% ; font-size: 11px&quot;&gt;看着小蓉抑郁的样子 (c1)，小陈的心里难过极了 (c2)。为了给小蓉继续活下去的信心和勇气 (c3)，小陈天天悉心照顾和呵护着小蓉 (c4)。小蓉输液的时候 (c6)，小陈就坐在病床边的小凳子上陪她说话 (c7)，读手机上的新闻给她听 (c8)。看着小蓉一天天病情加重 (c9)，小陈的心里很是焦急和难过 (c10)。&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="9" y="10" width="641" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="K8sW1tv_j0-LLQNYmq9_-28" value="" style="endArrow=none;html=1;entryX=1;entryY=0.454;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="K8sW1tv_j0-LLQNYmq9_-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="65" as="sourcePoint" />
+            <mxPoint x="69" y="65" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
