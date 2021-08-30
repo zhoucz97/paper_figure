@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-30T12:29:27.410Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="fbcr-fHf1f-fwedOydQf" version="15.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-30T14:06:48.989Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="KqK9asku2pHPOAMNoH52" version="15.0.3" type="github">
   <diagram id="KLlUpB3WJxM86L-r0Po5" name="Page-1">
     <mxGraphModel dx="748" dy="408" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="660" pageHeight="210" math="0" shadow="0">
       <root>
@@ -25,7 +25,7 @@
         <mxCell id="K8sW1tv_j0-LLQNYmq9_-9" value="Valid E-C pairs" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="463" y="125" width="92" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="K8sW1tv_j0-LLQNYmq9_-11" value="c5" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;" parent="1" vertex="1">
+        <mxCell id="K8sW1tv_j0-LLQNYmq9_-11" value="c2, c9" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="5.5" y="160" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="K8sW1tv_j0-LLQNYmq9_-12" value="&lt;p&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;(c2,c1), p&lt;sub style=&quot;font-size: 11px&quot;&gt;(2,1) &lt;/sub&gt;= 0.6046&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;(c2,c8), p&lt;sub style=&quot;font-size: 11px&quot;&gt;(2,8) &lt;/sub&gt;= 0.6497&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;(c9,c8), p&lt;sub style=&quot;font-size: 11px&quot;&gt;(9,8) &lt;/sub&gt;= 0.8793&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;" parent="1" vertex="1">
