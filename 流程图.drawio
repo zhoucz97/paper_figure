@@ -1,10 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2021-10-04T14:29:22.024Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36 Edg/94.0.992.38" etag="M8jjZuv4vMqIHoZXioW0" version="15.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-04T14:35:36.257Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36 Edg/94.0.992.38" etag="exuocwTBQY4jqrAbImvZ" version="15.3.5" type="github">
   <diagram id="xt7MOXR7QnOjlG_rGyG5" name="Page-1">
     <mxGraphModel dx="898" dy="490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="880" pageHeight="700" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="J45coZ76drWthjwCdcgT-24" value="" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;dashed=1;" vertex="1" parent="1">
+        <mxCell id="J45coZ76drWthjwCdcgT-37" value="" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="180" y="390" width="450" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="J45coZ76drWthjwCdcgT-24" value="" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="190" y="30" width="430" height="290" as="geometry" />
         </mxCell>
         <mxCell id="J45coZ76drWthjwCdcgT-9" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="J45coZ76drWthjwCdcgT-1" target="J45coZ76drWthjwCdcgT-2">
@@ -51,8 +54,44 @@
         <mxCell id="J45coZ76drWthjwCdcgT-22" value="&lt;font style=&quot;font-size: 13px&quot;&gt;得到最优模型参数&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
           <mxGeometry x="325" y="270" width="160" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="J45coZ76drWthjwCdcgT-30" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="J45coZ76drWthjwCdcgT-25" target="J45coZ76drWthjwCdcgT-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="J45coZ76drWthjwCdcgT-25" value="&lt;font style=&quot;font-size: 13px&quot;&gt;保存最优模型参数&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
           <mxGeometry x="325" y="340" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="J45coZ76drWthjwCdcgT-31" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="J45coZ76drWthjwCdcgT-27" target="J45coZ76drWthjwCdcgT-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J45coZ76drWthjwCdcgT-27" value="&lt;span style=&quot;font-size: 13px&quot;&gt;将测试文档输入模型&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="325" y="410" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="J45coZ76drWthjwCdcgT-32" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="J45coZ76drWthjwCdcgT-28" target="J45coZ76drWthjwCdcgT-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J45coZ76drWthjwCdcgT-28" value="&lt;span style=&quot;font-size: 13px&quot;&gt;抽取出文档的所有情感子句&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="480" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="J45coZ76drWthjwCdcgT-34" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="J45coZ76drWthjwCdcgT-29" target="J45coZ76drWthjwCdcgT-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J45coZ76drWthjwCdcgT-29" value="&lt;span style=&quot;font-size: 13px&quot;&gt;根据情感子句抽取出对应的原因子句，得到所有候选的情感原因对&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="325" y="480" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="J45coZ76drWthjwCdcgT-36" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="J45coZ76drWthjwCdcgT-33" target="J45coZ76drWthjwCdcgT-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J45coZ76drWthjwCdcgT-33" value="&lt;span style=&quot;font-size: 13px&quot;&gt;筛选出所有正确的情感原因对&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="480" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="J45coZ76drWthjwCdcgT-35" value="&lt;span style=&quot;font-size: 13px&quot;&gt;得到文档的所有情感原因对，测试完成&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="345" y="560" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="J45coZ76drWthjwCdcgT-38" value="&lt;b&gt;&lt;i&gt;训练阶段&lt;/i&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="250" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J45coZ76drWthjwCdcgT-39" value="&lt;b&gt;&lt;i&gt;测试阶段&lt;/i&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="570" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
