@@ -1,1 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2022-06-27T11:37:42.390Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44" version="20.0.3" etag="1w1a7D1exOg65PKpC5zm" type="github"><diagram id="pDH4k67YzkjOmIaZroGF">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-27T11:42:45.552Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44" etag="zZZrr1nfXGeVgQ0t6YNS" version="20.0.3" type="github">
+  <diagram id="pDH4k67YzkjOmIaZroGF" name="Page-1">
+    <mxGraphModel dx="416" dy="238" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="680" pageHeight="150" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="owhHFhgfYCAgF5jEkJHz-1" value="emotion encoder" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="54" y="52" width="92" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="owhHFhgfYCAgF5jEkJHz-2" value="cause encoder" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="52" width="90" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="owhHFhgfYCAgF5jEkJHz-3" value="情感01分类" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="29" y="110" width="68" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="owhHFhgfYCAgF5jEkJHz-4" value="情感细粒度分类" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="106" y="111" width="88" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="owhHFhgfYCAgF5jEkJHz-8" value="&lt;p&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 8px;&quot;&gt;二分类器&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="52" y="29" width="41" height="13" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
