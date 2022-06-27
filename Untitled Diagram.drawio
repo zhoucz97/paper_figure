@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-27T12:15:24.682Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44" etag="cAMoitNEiqb2oVUN5x5j" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-27T13:12:28.424Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44" etag="5xDHl-rl9xRGy91xKghx" version="20.0.3" type="github">
   <diagram id="pDH4k67YzkjOmIaZroGF" name="Page-1">
     <mxGraphModel dx="713" dy="407" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="800" pageHeight="800" math="0" shadow="0">
       <root>
@@ -94,10 +94,10 @@
           <mxGeometry x="13" y="283" width="475" height="94" as="geometry" />
         </mxCell>
         <mxCell id="owhHFhgfYCAgF5jEkJHz-30" value="&lt;font color=&quot;#97d077&quot;&gt;实验结果：&lt;br&gt;&lt;br&gt;添加细粒度情感分类，相当于多引入了信息，提升了最终的情感抽取性能，&lt;/font&gt;&lt;font color=&quot;#97d077&quot;&gt;从94点多提升到95，推测添加该任务后，使得子句的情感嵌入表示更优。&lt;br&gt;&lt;/font&gt;&lt;br&gt;至于其他改动，都没有能提升最终的对抽取效果，基本稳定在79-80之间&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;在显式建模相对位置信息时，效果较差，推测这种风格信息并无帮助。而隐式建模仍然是79点多，推测可能并没有建模风格信息。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=11;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="13" y="405" width="475" height="175" as="geometry" />
+          <mxGeometry x="13" y="400" width="475" height="126" as="geometry" />
         </mxCell>
-        <mxCell id="owhHFhgfYCAgF5jEkJHz-31" value="总结：在BERT+attention+GAT的框架下，小的改动对结果影响不大" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=11;fontColor=#FF3333;" vertex="1" parent="1">
-          <mxGeometry x="10" y="661" width="396" height="22" as="geometry" />
+        <mxCell id="owhHFhgfYCAgF5jEkJHz-31" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;总结：&lt;font color=&quot;#000000&quot;&gt;在BERT+attention+GAT的pipeline下，小的改动可能对结果影响不大。&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;后续：&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;现在是第一步先得到情感子句，然后依次将情感子句构建成query，得到该子句对应的原因子句。下一步尝试一次性将所有情感子句构建成一个query，（比如逐个拼接），这样可以想办法建模不同情感子句对之间的关系。&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;设计更多问题模板来训练模型，问题模板多了，相当于变相的增大了数据量；&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=11;fontColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="3" y="556" width="483" height="162" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
