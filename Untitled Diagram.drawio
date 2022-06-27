@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-27T11:45:53.334Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44" etag="k2Mq4GTYyVHOao7iCVsh" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-27T11:47:10.785Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44" etag="PjdDrQf0GN12lZfHB3b6" version="20.0.3" type="github">
   <diagram id="pDH4k67YzkjOmIaZroGF" name="Page-1">
     <mxGraphModel dx="713" dy="407" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="800" pageHeight="800" math="0" shadow="0">
       <root>
@@ -64,8 +64,22 @@
             <mxPoint x="70" y="147" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="owhHFhgfYCAgF5jEkJHz-18" value="Training" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="501" y="103" width="60" height="30" as="geometry" />
+        <mxCell id="owhHFhgfYCAgF5jEkJHz-18" value="&lt;font color=&quot;#ff3333&quot;&gt;Training&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="3" y="6" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="owhHFhgfYCAgF5jEkJHz-19" value="&lt;font color=&quot;#ff3333&quot;&gt;Test&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="392" y="13" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="owhHFhgfYCAgF5jEkJHz-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;fontSize=11;fontColor=#000000;" edge="1" parent="1" source="owhHFhgfYCAgF5jEkJHz-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="539.5" y="123.75486973353793" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="owhHFhgfYCAgF5jEkJHz-20" value="&lt;font color=&quot;#000000&quot;&gt;情感01分类，得到情感子句&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=11;fontColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="455" y="66" width="169" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="owhHFhgfYCAgF5jEkJHz-22" value="原因01分类，得到pair" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=11;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="466" y="130" width="151" height="28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
