@@ -1,85 +1,94 @@
-<mxfile host="app.diagrams.net" modified="2022-06-27T11:47:10.785Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44" etag="PjdDrQf0GN12lZfHB3b6" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-27T11:48:14.914Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44" etag="ugSvMgzGxsopiNvH34kI" version="20.0.3" type="github">
   <diagram id="pDH4k67YzkjOmIaZroGF" name="Page-1">
     <mxGraphModel dx="713" dy="407" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="800" pageHeight="800" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="owhHFhgfYCAgF5jEkJHz-1" value="emotion encoder" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="48" y="96" width="92" height="44" as="geometry" />
+          <mxGeometry x="49" y="94" width="92" height="44" as="geometry" />
         </mxCell>
         <mxCell id="owhHFhgfYCAgF5jEkJHz-2" value="cause encoder" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="239" y="96" width="90" height="44" as="geometry" />
+          <mxGeometry x="240" y="94" width="90" height="44" as="geometry" />
         </mxCell>
         <mxCell id="owhHFhgfYCAgF5jEkJHz-3" value="情感01分类" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="12" y="183" width="68" height="20" as="geometry" />
+          <mxGeometry x="13" y="181" width="68" height="20" as="geometry" />
         </mxCell>
         <mxCell id="owhHFhgfYCAgF5jEkJHz-4" value="情感细粒度分类" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="96" y="183" width="88" height="20" as="geometry" />
+          <mxGeometry x="97" y="181" width="88" height="20" as="geometry" />
         </mxCell>
         <mxCell id="owhHFhgfYCAgF5jEkJHz-8" value="&lt;p&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 11px;&quot;&gt;二分类器&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="27.5" y="43" width="52.5" height="15" as="geometry" />
+          <mxGeometry x="28.5" y="41" width="52.5" height="15" as="geometry" />
         </mxCell>
         <mxCell id="owhHFhgfYCAgF5jEkJHz-9" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Verdana;fontSize=11;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="279.25" y="177" as="sourcePoint" />
-            <mxPoint x="280.75" y="147" as="targetPoint" />
+            <mxPoint x="280.25" y="175" as="sourcePoint" />
+            <mxPoint x="281.75" y="145" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="owhHFhgfYCAgF5jEkJHz-10" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Verdana;fontSize=11;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="83" y="96" as="sourcePoint" />
-            <mxPoint x="71" y="69" as="targetPoint" />
+            <mxPoint x="84" y="94" as="sourcePoint" />
+            <mxPoint x="72" y="67" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="owhHFhgfYCAgF5jEkJHz-11" value="&lt;p&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 11px;&quot;&gt;六分类器&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="96" y="43" width="52.5" height="15" as="geometry" />
+          <mxGeometry x="97" y="41" width="52.5" height="15" as="geometry" />
         </mxCell>
         <mxCell id="owhHFhgfYCAgF5jEkJHz-12" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Verdana;fontSize=11;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="104" y="96" as="sourcePoint" />
-            <mxPoint x="119" y="66" as="targetPoint" />
+            <mxPoint x="105" y="94" as="sourcePoint" />
+            <mxPoint x="120" y="64" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="owhHFhgfYCAgF5jEkJHz-13" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Verdana;fontSize=11;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="123" y="175" as="sourcePoint" />
-            <mxPoint x="111" y="148" as="targetPoint" />
+            <mxPoint x="124" y="173" as="sourcePoint" />
+            <mxPoint x="112" y="146" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="owhHFhgfYCAgF5jEkJHz-14" value="给定情感子句，原因01分类" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="214" y="184" width="149" height="18" as="geometry" />
+          <mxGeometry x="215" y="182" width="149" height="18" as="geometry" />
         </mxCell>
         <mxCell id="owhHFhgfYCAgF5jEkJHz-15" value="&lt;p&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 11px;&quot;&gt;二分类器&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="255" y="49" width="52.5" height="15" as="geometry" />
+          <mxGeometry x="256" y="47" width="52.5" height="15" as="geometry" />
         </mxCell>
         <mxCell id="owhHFhgfYCAgF5jEkJHz-16" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Verdana;fontSize=11;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="283.25" y="94" as="sourcePoint" />
-            <mxPoint x="284.75" y="64" as="targetPoint" />
+            <mxPoint x="284.25" y="92" as="sourcePoint" />
+            <mxPoint x="285.75" y="62" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="owhHFhgfYCAgF5jEkJHz-17" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Verdana;fontSize=11;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="55" y="177" as="sourcePoint" />
-            <mxPoint x="70" y="147" as="targetPoint" />
+            <mxPoint x="56" y="175" as="sourcePoint" />
+            <mxPoint x="71" y="145" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="owhHFhgfYCAgF5jEkJHz-18" value="&lt;font color=&quot;#ff3333&quot;&gt;Training&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="3" y="6" width="60" height="30" as="geometry" />
+          <mxGeometry x="4" y="4" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="owhHFhgfYCAgF5jEkJHz-19" value="&lt;font color=&quot;#ff3333&quot;&gt;Test&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="392" y="13" width="60" height="30" as="geometry" />
+          <mxGeometry x="393" y="11" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="owhHFhgfYCAgF5jEkJHz-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;fontSize=11;fontColor=#000000;" edge="1" parent="1" source="owhHFhgfYCAgF5jEkJHz-20">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="539.5" y="123.75486973353793" as="targetPoint" />
+            <mxPoint x="540.5" y="121.75486973353793" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="owhHFhgfYCAgF5jEkJHz-20" value="&lt;font color=&quot;#000000&quot;&gt;情感01分类，得到情感子句&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=11;fontColor=#FF3333;" vertex="1" parent="1">
-          <mxGeometry x="455" y="66" width="169" height="27" as="geometry" />
+          <mxGeometry x="456" y="64" width="169" height="27" as="geometry" />
         </mxCell>
         <mxCell id="owhHFhgfYCAgF5jEkJHz-22" value="原因01分类，得到pair" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=11;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="466" y="130" width="151" height="28" as="geometry" />
+          <mxGeometry x="467" y="128" width="151" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="owhHFhgfYCAgF5jEkJHz-23" value="emotion encoder" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="26" y="241" width="92" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="owhHFhgfYCAgF5jEkJHz-24" value="=&amp;nbsp;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=11;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="121" y="255" width="31" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="owhHFhgfYCAgF5jEkJHz-25" value="BERT + GNN + Linear" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="152" y="246" width="129" height="36" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
